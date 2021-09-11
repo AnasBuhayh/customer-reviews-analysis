@@ -14,4 +14,4 @@ Scraped customer reviews from a retail website and summarized reviews with frequ
 
 # Conclusion
 
-The project was successful in extracting the features of the product using TF-IDF. Measuring the accuracy of the sentiment analysis using TextBlob is a challenge without labeling the data. Implementing the XGBoost classifier to predict the star ratings using adjectives was not promising, with an accuracy of 72%. Modifying the parameters can help to increase the accuracy.
+The project was successful in extracting the features of the product using TF-IDF. Measuring the accuracy of the sentiment analysis using TextBlob is a challenge without labeling the data. Implementing the XGBoost classifier to predict the star ratings using adjectives was promising, with an accuracy of 72%. Modifying the parameters can help to increase the accuracy.
